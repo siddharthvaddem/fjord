@@ -5,4 +5,6 @@ Lightning-fast, smooth, and fully customizable — a freeform canvas that moves 
 ## Access
 - URL: https://temp-theta-xyz.vercel.app/
 
-https://github.com/user-attachments/assets/ba3e1928-6246-48e1-a8bc-828886cecf12
+https://github.com/user-attachments/assets/1bcddc38-6f21-4ea5-ae03-232c1f07d71e
+
+
